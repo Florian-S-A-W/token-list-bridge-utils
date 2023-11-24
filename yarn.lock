@@ -2133,10 +2133,10 @@
     "@typescript-eslint/types" "5.23.0"
     eslint-visitor-keys "^3.0.0"
 
-"@uniswap/sdk-core@^4.0.6":
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/@uniswap/sdk-core/-/sdk-core-4.0.6.tgz#7b6d562f54293bbe0a9d101fb84e619db325f7b6"
-  integrity sha512-6GzCVfnOiJtvo91zlF/VjnC2OEbBRThVclzrh7+Zmo8dBovXwSlXwqn3RkSWACn/XEOzAKH70TficfOWm6mWJA==
+"@uniswap/sdk-core@npm:@koraykoska/uniswap-sdk-core@^6.0.9":
+  version "6.0.9"
+  resolved "https://registry.yarnpkg.com/@koraykoska/uniswap-sdk-core/-/uniswap-sdk-core-6.0.9.tgz#720b149daef422f5cecf2967882482df8e40a879"
+  integrity sha512-dSaO7zKRpoN6U3N2uYYHPAHB3rOTiTnhFqBSWatCYcgzI2znnHc+M/fL0EU99+H6MyOFeb6b53qgWUC9VMahYQ==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
