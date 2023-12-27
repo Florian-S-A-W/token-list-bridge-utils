@@ -34,7 +34,7 @@
   "license": "GPL-3.0-or-later",
   "main": "dist/index.js",
   "module": "dist/token-list-bridge-utils.esm.js",
-  "name": "@florian-s-a-w/uniswap-token-list-bridge-utils",
+  "name": "@uniswapfoundation/token-list-bridge-utils",
   "prettier": {
     "printWidth": 80,
     "semi": false,
@@ -53,7 +53,7 @@
   "version": "2.3.0",
   "dependencies": {
     "@arbitrum/sdk": "^3.1.6",
-    "@uniswap/sdk-core": "npm:@koraykoska/uniswap-sdk-core@^6.0.9",
+    "@uniswap/sdk-core": "npm:@uniswapfoundation/sdk-core@^5.0.0",
     "axios": "^0.26.0",
     "dotenv": "^16.0.1",
     "ethers": "^5.6.5",
